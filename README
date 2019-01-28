@@ -1,0 +1,5 @@
+This is only a little side-project I started for fun, so I'll only be working on it when I feel like it during my free time.
+
+
+This is something like a web scraper, but slightly different from what that term brings to my mind.
+Rather than returning the whole contents of a url, or something like all the images or links on the page, you can set it up so that certain urls (matching some string) will be cut up and/or formatted so that the output only contains the parts of the page's source that matter to you, in whatever formatting you make it use.
